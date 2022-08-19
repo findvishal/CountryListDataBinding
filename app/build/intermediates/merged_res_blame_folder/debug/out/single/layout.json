@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\visha\\Downloads\\CountryListModified-master (1)\\CountryListModified-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\visha\\Downloads\\CountryListModified-master (1)\\CountryListModified-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\visha\\Downloads\\CountryListModified-master (1)\\CountryListModified-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\country_list_row.xml",
+        "source": "C:\\Users\\visha\\Downloads\\CountryListModified-master (1)\\CountryListModified-master\\app\\src\\main\\res\\layout\\country_list_row.xml"
+    }
+]

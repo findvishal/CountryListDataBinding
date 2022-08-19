@@ -1,0 +1,24 @@
+com/demo/countrylistretrofit/databinding/ActivityMainBinding.java
+ com.demo.countrylistretrofit.databinding.ActivityMainBinding
+com/demo/countrylistretrofit/databinding/CountryListRowBinding.java
+ com.demo.countrylistretrofit.databinding.CountryListRowBinding
+com/demo/countrylistretrofit/BR.java
+ com.demo.countrylistretrofit.BR
+com/demo/countrylistretrofit/DataBindingTriggerClass.java
+ com.demo.countrylistretrofit.DataBindingTriggerClass
+com/demo/countrylistretrofit/DataBinderMapperImpl.java
+ com.demo.countrylistretrofit.DataBinderMapperImpl
+ com.demo.countrylistretrofit.DataBinderMapperImpl$InnerBrLookup
+ com.demo.countrylistretrofit.DataBinderMapperImpl$InnerLayoutIdLookup
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/demo/countrylistretrofit/BuildConfig.java
+ com.demo.countrylistretrofit.BuildConfig
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/demo/countrylistretrofit/databinding/CountryListRowBindingImpl.java
+ com.demo.countrylistretrofit.databinding.CountryListRowBindingImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/demo/countrylistretrofit/databinding/ActivityMainBindingImpl.java
+ com.demo.countrylistretrofit.databinding.ActivityMainBindingImpl

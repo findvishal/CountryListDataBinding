@@ -1,0 +1,60 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.demo.countrylistretrofit"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <!--
+14    Allows Glide to monitor connectivity status and restart failed requests if users go from a
+15    a disconnected to a connected network state.
+16    -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.github.corouteam:GlideToVectorYou:v2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\204a9373f67c2bc9fb911d82e335c725\jetified-GlideToVectorYou-v2.0.0\AndroidManifest.xml:16:5-79
+17-->[com.github.corouteam:GlideToVectorYou:v2.0.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\204a9373f67c2bc9fb911d82e335c725\jetified-GlideToVectorYou-v2.0.0\AndroidManifest.xml:16:22-76
+18
+19    <application
+19-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:6:5-20:19
+20        android:allowBackup="true"
+20-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:7:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.6.0] C:\Users\visha\.gradle\caches\transforms-2\files-2.1\484149b92a13ecf52e84bfcb35ed7f78\core-1.6.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:8:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:9:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:10:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:11:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.CountryListRetrofit" >
+29-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:12:9-57
+30        <activity android:name="com.demo.countrylistretrofit.MainActivity" >
+30-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:13:9-19:20
+30-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:13:19-47
+31            <intent-filter>
+31-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:14:13-18:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:15:17-69
+32-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:15:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:17:17-77
+34-->C:\Users\visha\Downloads\CountryListModified-master (1)\CountryListModified-master\app\src\main\AndroidManifest.xml:17:27-74
+35            </intent-filter>
+36        </activity>
+37    </application>
+38
+39</manifest>
