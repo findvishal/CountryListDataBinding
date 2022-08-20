@@ -49,7 +49,6 @@ class CountryListAdapter() : RecyclerView.Adapter<CountryListAdapter.MyViewHolde
     companion object{
         @JvmStatic
         @BindingAdapter("loadImage")
-      //  @BindingAdapter("loadImage")
         fun loadImage(flagImage:ImageView,url:String){
             Glide.with(flagImage)
                 .load(url)
